@@ -1,9 +1,9 @@
 def main():
     #escribe tu código abajo de esta línea
     print('Enter a number')
-    num1 = int(input() ) #Read the first value
+    num1= int(input() ) #Read the first value
     print('Enter a second number')
-    num2 = int(input() ) #Read the second value
+    num2= int(input() ) #Read the second value
 
 suma= num1+num2
 resta= num1-num2
