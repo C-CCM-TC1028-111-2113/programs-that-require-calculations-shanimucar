@@ -1,14 +1,12 @@
 def main():
     #escribe tu código abajo de esta línea
 
-    print('Dame un número')
-number1 = int(input())
-print('Dame un número')
-number2 = int(input())
+    numero1 = int(input("Dame un número: "))
+numero2 = int(input("Dame un número: "))
 
-suma = number1 + number2
-resta = number1 - number2
-multi = number1 * number2
+suma = numero1 + numero2
+resta = numero1 - numero2
+multi = numero1 * numero2
 
 print('Suma: ' + str(suma)) #Show the addition
 print('Resta: ' + str(resta)) #Show the substraction
