@@ -1,7 +1,7 @@
 def main():
     #escribe tu código abajo de esta línea
 
-print('Dame un número')
+    print('Dame un número')
 num1 = int(input()) #Read the first value
 print('Dame otro número')
 num2 = int(input()) #Read the second value
