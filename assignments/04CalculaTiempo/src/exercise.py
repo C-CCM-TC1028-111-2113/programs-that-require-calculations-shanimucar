@@ -1,6 +1,10 @@
 def main():
     #escribe tu código abajo de esta línea
-    pass
+    edad = int(input("Dame tu edad: "))
+    anoActual = int(input("Dame el año actual: "))
+    anosFaltantes=100-edad
+    tiempo=anoActual+anosFaltantes
+    print("CumplirÃ¡s 100 años en el año: ",tiempo)
 
 
 
