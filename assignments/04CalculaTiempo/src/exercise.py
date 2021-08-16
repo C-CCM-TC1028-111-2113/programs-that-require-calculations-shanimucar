@@ -4,7 +4,7 @@ def main():
     anoActual = int(input("Dame el año actual: "))
     anosFaltantes = 100 - edad
     tiempo = anoActual + anosFaltantes
-    print("Cumplirás 100 años en el año: ",tiempo)
+    print("Cumplirás 100 años en el año: ", tiempo)
 
 
 
