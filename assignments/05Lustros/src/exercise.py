@@ -7,5 +7,3 @@ lustros = edad/5
 print("Los lustros que has vivido son: ", lustros
 
 
-if __name__ == '__main__':
-    main()
