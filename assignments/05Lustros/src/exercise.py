@@ -4,6 +4,6 @@ def main():
     anoActual = float(input("Dame el año actual: "))
 edad = anoActual - anoNacimiento
 lustros = edad/5
-print("Los lustros que has vivido son:", lustros
+print("Los lustros que has vivido son:", lustros)
 
 
