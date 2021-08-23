@@ -1,12 +1,12 @@
 def main():
     #escribe tu código abajo de esta línea
 
-    n1 = int(input("Dame un número:"))
-    n2 = int(input("Dame un número:"))
+    num1 = int(input("Dame un número: "))
+    num2 = int(input("Dame un número: "))
 
-    suma = n1 + n2
-    resta = n1 - n2
-    multi = n1 * n2
+    suma = num1 + num2
+    resta = num1 - num2
+    multi = num1 * num2
 
     print("Suma:", suma) 
     print("Resta:", resta) 
