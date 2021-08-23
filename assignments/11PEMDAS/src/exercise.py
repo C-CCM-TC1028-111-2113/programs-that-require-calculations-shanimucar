@@ -5,7 +5,7 @@ def main():
     #Fecha: Agosto 8 de 2019
     #Actividad Prioridad de Operaciones Básicas 
 
-    math define sqrt
+    import math
     
     a = 4
     b = 5
