@@ -4,13 +4,13 @@ def main():
     n1 = int(input("Dame un número:"))
     n2 = int(input("Dame un número:"))
 
-suma = n1 + n2
-resta = n1 - n2
-multi = n1 * n2
+    suma = n1 + n2
+    resta = n1 - n2
+    multi = n1 * n2
 
-print("Suma:", suma) #Show the addition
-print("Resta:", resta) #Show the substraction
-print("Multiplicación:", multi) #Show the multiplication
+    print("Suma:", suma) 
+    print("Resta:", resta) 
+    print("Multiplicación:", multi) 
    
 
 if __name__ == '__main__':
